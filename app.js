@@ -64,4 +64,4 @@ console.log(`daysInMonth(11) === 30: ${daysInMonth(11) === 30}`);
 // - [Is it a Palindrome?](https://www.codewars.com/kata/57a1fd2ce298a731b20006a4)
 // - [Numerical Palindrome](https://www.codewars.com/kata/58ba6fece3614ba7c200017f)
 // - [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)
-// cool 
+// cool
